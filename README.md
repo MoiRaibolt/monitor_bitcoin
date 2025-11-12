@@ -4,6 +4,8 @@
 Este projeto foi desenvolvido como parte prática do aprendizado em Ruby on Rails, com o objetivo de criar um monitor em tempo real do preço do Bitcoin.
 A aplicação consome dados de uma API pública (CoinGecko) e exibe os valores em USD e BRL, atualizando automaticamente a cada 5 segundos.
 
+![Monitor - Bitcoin Banner](assets/images/monitor_bitcoin.png)
+
 🚀 Tecnologias Utilizadas
 
 Ruby 3.2.2
