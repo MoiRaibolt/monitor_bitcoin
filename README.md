@@ -109,8 +109,8 @@ Dashboard com login de usuário
 🧑‍💻 Autor
 
 Moisés Raibolt
-Desenvolvedor em formação | Ruby on Rails, Python, Front-end e Back-end
-📎 LinkedIn
+Analista de Sistemas / Desenvolvedor Full-Stack Júnior | Python • Flask • Ruby on Rails • JavaScript • React • MySQL
+📎 LinkedIn: www.linkedin.com/in/moisesraibolt-dev
 
 📧 moises.raibolt@gmail.com
 
